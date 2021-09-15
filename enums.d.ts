@@ -29,7 +29,10 @@ declare namespace RageEnums {
 		VEHICLE_HORN_TOGGLE = "vehicleHornToggle",
 		VEHICLE_SIREN_TOGGLE = "vehicleSirenToggle",
 		VEHICLE_STREAM_IN = "vehicleStreamIn",
-		VEHICLE_STREAM_OUT = "vehicleStreamOut"
+		VEHICLE_STREAM_OUT = "vehicleStreamOut",
+		SERVER_SHUTDOWN = "serverShutdown",
+		INCOMING_CONNECTION = "incomingConnection",
+		PACKAGES_LOADED = "packageLoaded"
 	}
 
 	const enum ClothesComponent {
