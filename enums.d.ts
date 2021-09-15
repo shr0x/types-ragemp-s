@@ -32,7 +32,8 @@ declare namespace RageEnums {
 		VEHICLE_STREAM_OUT = "vehicleStreamOut",
 		SERVER_SHUTDOWN = "serverShutdown",
 		INCOMING_CONNECTION = "incomingConnection",
-		PACKAGES_LOADED = "packageLoaded"
+		PACKAGES_LOADED = "packageLoaded",
+		VEHICLE_DEATH = "vehicleDeath"
 	}
 
 	const enum ClothesComponent {
